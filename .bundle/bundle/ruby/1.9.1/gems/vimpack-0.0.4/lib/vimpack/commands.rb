@@ -1,0 +1,8 @@
+require 'vimpack/commands/command'
+require 'vimpack/commands/init'
+require 'vimpack/commands/search'
+require 'vimpack/commands/install'
+require 'vimpack/commands/uninstall'
+require 'vimpack/commands/list'
+require 'vimpack/commands/info'
+require 'vimpack/commands/git'
